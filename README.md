@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oneofthemani. I am currently a Management Information Systems student at TUM.
 - 👀 I’m interested in many topics and trying to maintain and expand my knowledge about them.
-- 🌱 I’m currently in a learning path and will update you how it works in a further time. 
-- 💞️ I’m looking to collaborate on many projects, especially in the branches where I can gain knowledge upon.
+- 🌱 I’m currently in a learning path about learning JavaEE (and of course Java), JavaScript, R and Python. 
+- 💞️ I’m looking to collaborate on many projects, especially in data science branches.
 - 📫 How to reach me ...
 
 <!---
