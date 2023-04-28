@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oneofthemani.
 - 👀 I’m interested in many topics and trying to maintain and expand my knowledge about them.
-- 🌱 I’m currently in a learning path about learning JavaEE (and of course Java), JavaScript, R and Python. 
+- 🌱 I’m currently in a learning path about learning JavaEE, JavaScript, R and Python. 
 - 💞️ I’m looking to collaborate on many projects, especially in data science branches.
 - 📫 How to reach me ...
 
